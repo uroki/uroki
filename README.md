@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uroki</h1>
 <h3 align="center">Pharmacist 🫤, Programmer and Designer.</h3>
 
-- 👨🏻‍💻  I'm working at **NOTHING** as a HUMAN.
+- 👨🏻‍💻  I'm working at **NOTHING** as a **HUMAN**.
 
 - 💎  In **LOVE** with
 
@@ -12,9 +12,9 @@
       >  React Native & Flutter
       >  MySQL & MongoDB
 
-- 📬  Reach **ME** *@* **'YOU CAN'T'**,
+- 📬  Reach **ME** *@* **"YOU CAN'T"**,
 
-- 💻  So, Just visit my personal website [here](https://uroki.github.io/).
+- 💻  So, Just visit my personal website [HERE](https://uroki.github.io/).
 
 <br/><br/>
 <p align="center">
