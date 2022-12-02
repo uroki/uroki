@@ -11,7 +11,6 @@
           >  ReactJS & VueJS & Svelte
       >  React Native & Flutter
       >  MySQL & MongoDB
-
 - 📬  Reach **ME** *@* **"YOU CAN'T"**,
 
 - 💻  So, Just visit my personal website [HERE](https://uroki.github.io/).
