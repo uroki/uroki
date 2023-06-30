@@ -5,7 +5,7 @@
 
 - 💎  In **LOVE** with
 
-      >  Rust & Python & Dart & VB.NET & C/C++ ( MAYBE )
+      >  Go & Rust & Python & Dart & VB.NET & C/C++ ( MAYBE )
       >  JavaScript & Web Design
           >  NodeJS & Deno
           >  ReactJS & VueJS & Svelte
